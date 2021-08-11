@@ -5,13 +5,13 @@ Source code can be viewed in the projects folder.
 
 Controls:
 
-WASD: Walk
-Left-click: Shoot
-Space: Jump
-R: Reload
-C: Duck
-Shift: Sprint
-Shift + C: Slide
-Escape: Pause
+WASD: Walk <br />
+Left-click: Shoot <br />
+Space: Jump <br />
+R: Reload <br />
+C: Duck <br />
+Shift: Sprint <br />
+Shift + C: Slide <br />
+Escape: Pause <br />
 Tab: Open scoreboard
 
